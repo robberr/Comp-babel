@@ -1,0 +1,11 @@
+build
+.DS_Store
+.cache
+/node_modules/
+yarn.lock
+yarn-error.log
+package-lock.json
+dist
+Comp-babel.njsproj
+Comp-babel.njsproj.user
+public
